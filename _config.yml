@@ -1,0 +1,28 @@
+name: Nathaniel James
+favicon: null
+layout_spectrum: 0.04269806481897831
+typography_spectrum: 0.24334584642201662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.41588291828520596
+  lightness: 0.4119512280449271
+  saturation: 0.5235087189357728
+  rhythmicContrast: 0.003595329588279128
+purpose: []
