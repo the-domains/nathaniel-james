@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nathaniel James]]></title>
+        <description><![CDATA[Nathaniel James]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 02:11:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why Anything At All?</p>]]></description>
+            <link>undefined941874c3-787f-453e-b0d4-25fa4b3d2cb2/index.html</link>
+            <guid isPermaLink="false">941874c3-787f-453e-b0d4-25fa4b3d2cb2</guid>
+            <pubDate>Fri, 19 Feb 2016 02:11:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
